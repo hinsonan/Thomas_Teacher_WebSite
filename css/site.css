@@ -17,14 +17,19 @@ main {
   font-size: 22px;
 }
 
-#welcome{
-    color: white;
-    background-color: #00897b;
-    padding: 5px;
-    border-radius: 10px;
+.mission{
+  font-size: 24px;
 }
 
 .carousel-item{
   width:100% !important;
   height:100% !important;
+}
+
+.newsletterheading{
+  font-weight: bold;
+}
+
+.aboutmephoto{
+  height: 600px !important;
 }
