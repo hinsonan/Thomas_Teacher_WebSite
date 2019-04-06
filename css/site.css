@@ -23,3 +23,8 @@ main {
     padding: 5px;
     border-radius: 10px;
 }
+
+.carousel-item{
+  width:100% !important;
+  height:100% !important;
+}
