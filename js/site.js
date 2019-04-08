@@ -16,3 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
       numVisible:1
     });
   });
+  $( document ).ready(function() {
+    $(".dropdown-trigger").dropdown();
+  })
+  

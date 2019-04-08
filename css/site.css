@@ -9,6 +9,11 @@ main {
     flex: 1 0 auto;
 }
 
+.brand-logo {
+  font-size: 140% !important;
+  padding-left: 2px !important;
+}
+
 .parallax-container {
     height: 700px;
   }
