@@ -9,6 +9,10 @@ main {
     flex: 1 0 auto;
 }
 
+p, li{
+  font-size: 16px;
+}
+
 .brand-logo {
   font-size: 140% !important;
   padding-left: 2px !important;
